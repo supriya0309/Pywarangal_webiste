@@ -1,37 +1,37 @@
 [
-    {
-        "name":"Adarshreddy Adelli",
-        "company":"PSF Member",
-        "profileImg":"https://avatars2.githubusercontent.com/u/28985009?s=400&v=4"
-    },
-    {
-        "name":"Ashwak Ahmed",
-        "company":"co-organiser",
-        "profileImg":"https://scontent.fhyd11-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/50502911_1583791485097717_8190100714727407616_o.jpg?_nc_cat=110&efg=eyJpIjoidCJ9&_nc_ht=scontent.fhyd11-1.fna&oh=19aeb623f183f5e7e8ef47134ff17908&oe=5D066DD7"
-    },
-    {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
-    },
-      {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
-    },
-    {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
-    },
-    {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
-    },
-    {
-        "name":"Speaker Name",
-        "company":"Company Name",
-        "profileImg":"assets/img/speakers/avatar.png"
-    }
+  {
+    "name": "Adarshreddy Adelli",
+    "company": "PSF Member",
+    "profileImg": "https://avatars2.githubusercontent.com/u/28985009?s=400&v=4"
+  },
+  {
+    "name": "Ashwak Ahmed",
+    "company": "co-organiser",
+    "profileImg": "https://scontent.fhyd11-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/50502911_1583791485097717_8190100714727407616_o.jpg?_nc_cat=110&efg=eyJpIjoidCJ9&_nc_ht=scontent.fhyd11-1.fna&oh=19aeb623f183f5e7e8ef47134ff17908&oe=5D066DD7"
+  },
+  {
+    "name": "Karthik Ponnam",
+    "company": "co-organiser",
+    "profileImg": "https://avatars1.githubusercontent.com/u/19759716?s=460&v=4"
+  },
+  {
+    "name": "Speaker Name",
+    "company": "Company Name",
+    "profileImg": "assets/img/speakers/avatar.png"
+  },
+  {
+    "name": "Speaker Name",
+    "company": "Company Name",
+    "profileImg": "assets/img/speakers/avatar.png"
+  },
+  {
+    "name": "Speaker Name",
+    "company": "Company Name",
+    "profileImg": "assets/img/speakers/avatar.png"
+  },
+  {
+    "name": "Speaker Name",
+    "company": "Company Name",
+    "profileImg": "assets/img/speakers/avatar.png"
+  }
 ]
