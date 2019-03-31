@@ -1,7 +1,7 @@
 {
     "theme-title" : "",
     "eventName" : "",
-    "ytvideo" : "https://www.youtube.com/embed/Osn5Y6N5rG0",
+    "ytvideo" : "https://www.youtube.com/",
     "devfest18DetailsSmall" : "Pywarangal is a group of developers within warangal and around area  who are interested in python and other technologies.",
     "eventMeetupLink" : "",
     "eventDate" : "",
@@ -66,9 +66,9 @@
         }
     ],
     "states":{
-        "title" : "On the edge of Android, Web and Cloud.",
-        "des" : "GDG DevFest Jalandhar brings together people who shape the future of Android, Web and Cloud technologies for 2 days of sessions, workshops and networking. Described by many as 'Google I/O of Jalandhar', our team creates DevFest to be the best place for inspiration and experience sharing.",
-        "previousEventHighlight" : "https://www.youtube.com/watch?v=O46SRrFxR4c",
+        "title" : "On the edge of AI , WEB , Etc..",
+        "des" : "PyWarangal -Python users community",
+        "previousEventHighlight" : "https://www.youtube.com/",
 
         "statistics":[
             {
