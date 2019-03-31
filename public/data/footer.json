@@ -1,0 +1,76 @@
+{   "chaperName" : "PyWarangal",
+    "chapterSocialMediaLinks": {
+        "facebook" : "https://www.facebook.com/pywarangal/",
+        "googlePlus" : "#",
+        "twitter" : "#",
+        "meetup" : "#",
+        "youtube" : "",
+        "slack" : "",
+        "linkedin" : "",
+        "github" : ""
+    },
+    "aboutSection":[
+        {
+            "linkName" : "PyWarangal",
+            "link" : "http://pywarangal.firebaseapp.com/"
+        },
+        {
+            "linkName" : "python software foundation",
+            "link" : "https://python.org"
+        },
+        {
+            "linkName" : "",
+            "link" : ""
+        },
+        {
+            "linkName" : "Meet the team",
+            "link" : "https://pywarangal.firebaseapp.com/#/team"
+        },
+        {
+            "linkName" : "",
+            "link" : "#"
+        }
+    ],
+    "eventResourcesSection" : [
+        {
+            "linkName" : "Become a Sponsor",
+            "link" : "gdgjalandhar@gmail.com"
+        },
+        {
+            "linkName" : "Call for Speaker",
+            "link" : "gdgjalandhar@gmail.com"
+        },
+        {
+            "linkName" : "Media Kit",
+            "link" : "https://drive.google.com/drive/folders/16rHDaHbuS_YApMWgJHUxygpd-A5gCkLK"
+        }
+    ],
+    "DevConsole" : [
+        {
+            "linkName" : "vengix",
+            "link" : "https://teamvengix.firebaseapp.com"
+        },
+        {
+            "linkName" : "",
+            "link" : ""
+        },
+        {
+            "linkName" : "",
+            "link" : ""
+        },
+        {
+            "linkName" : "",
+            "link" : ""
+        }
+    ],
+    "footerEndSection" : [
+        {
+            "linkName" : "Code of Conduct",
+            "link" : "https://docs.google.com/document/d/1Wz_w6Z7usMnXKFMpOY4IPbA35twK7Uc4CAxScGDiwOk/edit"
+        },
+        {
+            "linkName" : "Terms & Servies",
+            "link" : "https://docs.google.com/document/d/14g3fv9NItiB8Hd-YGYyVYd2N4LRxe6Bx3syWse_wsiA/edit?usp=sharing"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "title":"Our Patners",
+    "description":"These people are our strength, we thank ..! for your love towards pywarangal. Interested in sponsoring us ??.. contact us  ",
+    "patnersName" : [
+        {
+            "name":"Python software foundation",
+            "URL":"https://python.org/",
+            "PatnerImg":"https://www.python.org/static/community_logos/python-powered-w.svg",
+            "width":"160h"
+        },
+        {
+            "name":"",
+            "URL":"",
+            "PatnerImg":"",
+            "width":"280h"
+        },
+        {
+            "name":"",
+            "URL":"",
+            "PatnerImg":"",
+            "width":"140h"
+        }
+    ]    
+} 

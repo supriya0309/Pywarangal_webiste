@@ -1,0 +1,123 @@
+<!-- d-none d-lg-block -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<div class="container-fluid">
+    <div class="row p-0">
+        <div class="col-md-10 offset-md-1" >
+            <div class="container-fluid">
+                <div class="row mt-5 mb-5 align-items-center" > 
+                    <div class="col-md-6" style="padding-top: auto; padding-bottom: auto" >
+                        <h1 style="font-family: google-sans;font-weight: 350;color: #3c4043;" class="display-5 animated fadeInUp"><b>We are powered by<span style="color: #1a73e8;">Technology</span>.</b></h1>
+                        <br>
+                        <h4 style="font-family: google-sans;" class="animated fadeInUp">{{homeJson.eventName}}</h4>
+                        <p class="google-font animated fadeInUp">{{ homeJson.devfest18DetailsSmall }}</p>
+                        <p class="google-font text-muted animated fadeInUp">
+                            {{homeJson.eventDate}} &nbsp; {{homeJson.eventTime}} &nbsp; {{homeJson.eventVenue}}
+                        </p>
+                        <p class="google-font text-muted animated fadeInUp">
+                            <span ng-repeat="hs in homeJson.hashTag">
+                                {{hs.name}} &nbsp;
+                            </span>
+                            
+                        </p>
+
+                        <!-- <h5 class="google-font animated fadeInU">Coming Soon...</h5> -->
+
+                        <ul class="list-inline animated fadeInUp">
+                            <li class="list-inline-item" ng-repeat="sl in homeJson.socialLinks">
+                                <a href="{{sl.link}}" style="color: #3c4043;"><i class="fa {{sl.icon}}" aria-hidden="true"></i></a>
+                            </li>
+
+                        </ul>
+
+                        <a href="#registration" class="btn btn-primary btn-sm mt-2 m-0 waves-effect waves-light z-depth-0 animated fadeInUp google-font" style="text-transform:capitalize;">Join Us</a>
+                        &nbsp;
+
+                        <a href="{{homeJson.eventMeetupLink}}" target="_blank" class="btn btn-pink btn-sm mt-2 m-0 waves-effect waves-light z-depth-0 animated fadeInUp google-font" style="text-transform:capitalize;">Contact us</a>
+                        
+                    </div>
+
+                    <div class="col-md-6 d-none d-lg-block">
+                        <div class="embed-responsive embed-responsive-16by9 z-depth-2 float-right" style="max-width: 90%;">
+                            <!--    Update the SRC Link                          -->
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Osn5Y6N5rG0"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <section class="bg-white">
+    <div class="container-fluid  animated fadeInUp mt-2 mb-2">
+        <div class="row">
+            <div class="col-md-10 offset-md-1 pt-5 pb-5">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-6 order-md-1 order-1">
+                            <h2 style="font-family: google-sans;font-weight: 350;color: #3c4043;" class="display-5 h2-responsive animated fadeInUp"><b>What we<span style="color: #1a73e8;"></span> do<span style="color: #1a73e8;">?</span>.</b></h2>
+        
+                            <p class="h6">We  love technology.Technology that ranges from opensource tools to python powered tools.<p>
+                            <p><i class="fas fa-handshake fa-2x  amber-text pr-3" aria-hidden="true"></i> Working with developers</p>
+                             <p><i class="fas fa-university fa-2x red-text pr-3" aria-hidden="true"></i> Sharing knowledge</p>
+                             <p><i class="fas fa-bolt fa-2x indigo-text pr-3" aria-hidden="true"></i> Powering Talks</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </section>
+    
+
+    <div class="container-fluid pt-5 pb-3" style="background-image: url('../assets/img/a.svg');background-repeat: no-repeat;background-size: cover;">
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+                <div class="container-fluid">
+                    <div class="row"> 
+        <div class="row mt-5">
+            <div class="col-md-6 offset-md-3 text-center mt-5">
+                <h3 style="font-family: google-sans;color: #1a73e8;" class="mb-3">{{homeJson.sessionsSection.title}}</h3>
+                <p>{{homeJson.sessionsSection.des}}</p>
+                <a href="#sessions">See More</a>
+            </div>
+        </div>
+
+        <div class="row mt-2" > 
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-10 offset-md-1">
+                        <div class="container-fluid">
+                            <!-- <h5 class="google-font">We work hard to be ready soon...</h5> -->
+                            <div class="row">
+                                <div class="col-md-3 col-sm-6 mt-4" ng-repeat="sedt in sessionsData | limitTo : 4">
+                                    <div class="white p-3 pt-4" style="border-color:#e0e0e0;border-width: 1px;border-style: solid;border-radius: 8px;height:100%">
+                                        <img src="assets/img/gdg logo.svg" alt="GDG Logo" width="30vh" style="background:#fafafa;border-radius: 2px;" class="mb-3">
+                                        <h5 style="font-family: google-sans;">{{sedt.title}}</h5>
+                                        <p>{{sedt.des}}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+
+        <div class="row mt-5 pb-5">
+            <div class="col-md-6 offset-md-3 text-center mt-5">
+                <h3 style="font-family: google-sans;color: #1a73e8;" class="mb-3">{{patData.title}}</h3>
+                <p>{{patData.description}}</p>
+                <br>
+                <div ng-repeat="pd in patData.patnersName">
+                    <a href="{{pd.URL}}" class="mb-5"><img src="{{pd.PatnerImg}}" width="{{pd.width}}" title="{{pd.name}}"></a>
+                </div>
+                <br>
+                <br>
+            </div>
+        </div>
+    </div>

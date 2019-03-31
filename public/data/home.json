@@ -1,0 +1,105 @@
+{
+    "theme-title" : "",
+    "eventName" : "",
+    "ytvideo" : "https://www.youtube.com/embed/Osn5Y6N5rG0",
+    "devfest18DetailsSmall" : "Pywarangal is a group of developers within warangal and around area  who are interested in python and other technologies.",
+    "eventMeetupLink" : "",
+    "eventDate" : "",
+    "eventTime" : "",
+    "eventVenue" : "",
+    "hashTag" : [
+        {
+            "name" : "#pywarangal"
+        },
+        {
+            "name" : ""
+        },
+        {
+            "name" : ""
+        },
+        {
+            "name" : ""
+        }
+    ],
+    "socialLinks":[
+        {
+            "name" : "facebook",
+            "link" : "https://www.facebook.com/pywarangal/",
+            "icon" : "fa-facebook"
+        },
+        {
+            "name" : "googleplus",
+            "link" : "",
+            "icon" : "fa-google-plus"
+        },
+        {
+            "name" : "twitter",
+            "link" : "",
+            "icon" : "fa-twitter"
+        },
+        {
+            "name" : "meetup",
+            "link" : "",
+            "icon" : "fa-meetup"
+        }
+    ],
+    "overviewSection":[
+        {
+            "title" : "Sessions",
+            "des" : "3 parallel tracks, dedicated to Android, Web and Cloud technologies",
+            "icon" : "fa-microphone"
+        },
+        {
+            "title" : "Showcases",
+            "des" : "Demo zone with the latest of Google tech: Big Data, face recognition, VR, IoT - all in one place",
+            "icon" : "fa-lightbulb-o"
+        },
+        {
+            "title" : "Workshops",
+            "des" : "3 workshops to get your hands dirty and create a working prototype right during the conference",
+            "icon" : "fa-users"
+        },
+        {
+            "title" : "Networking",
+            "des" : "Work hard and enjoy DevFest is the best place to meet new people",
+            "icon" : "fa-american-sign-language-interpreting"
+        }
+    ],
+    "states":{
+        "title" : "On the edge of Android, Web and Cloud.",
+        "des" : "GDG DevFest Jalandhar brings together people who shape the future of Android, Web and Cloud technologies for 2 days of sessions, workshops and networking. Described by many as 'Google I/O of Jalandhar', our team creates DevFest to be the best place for inspiration and experience sharing.",
+        "previousEventHighlight" : "https://www.youtube.com/watch?v=O46SRrFxR4c",
+
+        "statistics":[
+            {
+                "quantity" : "300+",
+                "title" : "Attendees",
+                "icon" : "fa-microphone"
+            },
+            {
+                "quantity" : "3+",
+                "title" : "Workshop",
+                "icon" : "fa-lightbulb-o"
+            },
+            {
+                "quantity" : "15+",
+                "title" : "Sessions",
+                "icon" : "fa-users"
+            },
+            {
+                "quantity" : "10+",
+                "title" : "Speakers",
+                "icon" : "fa-american-sign-language-interpreting"
+            }
+        ]
+    },
+    "speakerSection" : {
+        "title" : "Our lineup of big thinkers and even bigger doers",
+        "des" : "Get ready to be inspired by speakers who are building a cloud full of opportunity with our partners and customers. Stay tuned as we add more dynamic speakers to our lineup." 
+    },
+    "sessionsSection" : {
+        "title" : "Our Theme & Sessions",
+        "des" : "At sessions that span from the technical to the visionary, let’s celebrate and discover what the cloud can enable: how product innovation, open source, and ML and AI can propel enterprises forward and solve the big problems that impact all of us."
+    }
+    
+}
